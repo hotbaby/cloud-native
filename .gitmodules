@@ -1,0 +1,3 @@
+[submodule "apisix-conf"]
+	path = apisix-conf
+	url = git@github.com:hotbaby/apisix-conf.git
